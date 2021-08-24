@@ -1,7 +1,9 @@
 # Online/Offline Budget Trackers
 
 deployment: https://uta-budget-tracker.herokuapp.com/  
-worked with [Andrew Wilson](https://github.com/andwilson36)
+  
+worked with [Andrew Wilson](https://github.com/andwilson36)  
+  
  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 
